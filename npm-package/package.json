@@ -1,6 +1,6 @@
 {
   "name": "redux-form-input-toggle",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "description": "Angular like toggle for inputs in react without making your own component and logic.",
   "main": "./dist/index.js",
   "repository": {

@@ -1,18 +1,17 @@
 # Redux Form Toggle Input
 
 ####By:
-[Dman89](https://www.github.com/dman89/)?
+[Dman89](https://www.github.com/dman89/)
+
+
+
+###How To Use:
 
 ```
-	> git clone git@github.com:DMan89/ReactExpressReduxMongoDB.git
-	> cd react-input-toggle
-	> npm install
-	> npm start
+		npm install -S redux-form-toggle-input
 ```
 
-####How To Use:####
-
-###React Example
+####React Example
 
 ```
 import InputToggle from 'redux-form-toggle-input';
@@ -24,7 +23,7 @@ import InputToggle from 'redux-form-toggle-input';
 </InputToggle>
 ```
 
-###Redux-Form Example
+####Redux-Form Example
 
 ```
 import InputToggle from 'redux-form-toggle-input';
@@ -62,4 +61,12 @@ export default reduxForm({
 	form: 'userForm',
 	fields: ['userInput']
 })(Welcome);
+```
+
+###Installation to Contribute:
+```
+	> git clone git@github.com:DMan89/redux-form-input-toggle.git
+	> cd react-input-toggle
+	> npm install
+	> npm start
 ```
